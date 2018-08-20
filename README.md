@@ -1,6 +1,6 @@
 # My first neural network
 
-This my project submission for the Deep Learning Foundation nano degree by Udacity. 
+This is my project submission for the Deep Learning Foundation nano degree by Udacity. 
 
 In this project, I built my first neural network from scratch to carry out a prediction the daily bike rental ridership. By building a neural network from ground up, instead of making use of popular tools, I gained a much better understanding of gradient descent, backpropagation, and other important concepts. 
 
